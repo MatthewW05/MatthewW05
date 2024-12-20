@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>Co-founding a startup, developing machine learning models, and learning more about cloud computing and storage through AWS Educate.<br><br>👯 I’m looking to collaborate on<br>Software development, cloud computing, and machine learning projects.<br><br>🌱 I’m currently learning<br>Cloud computing, storage solutions, and expanding my knowledge of machine learning and AI.<br><br>💬 Ask me about<br>Software engineering, cloud infrastructure, and full-stack development.
+🎓 I'm a second-year Software Engineering student at McMaster University.
+
+🔭 I’m currently working on co-founding a startup, developing machine learning models, and learning more about cloud computing and storage through AWS Educate.
+
+👯 I’m looking to collaborate on software development, cloud computing, and machine learning projects.
+
+🌱 I’m currently learning cloud computing, storage solutions, and expanding my knowledge of machine learning and AI.
+
+💬 Ask me about software engineering, cloud infrastructure, and full-stack development.
 
 
 ## 🌐 Socials:
